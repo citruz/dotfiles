@@ -1,0 +1,3 @@
+port-resolution: yes    # resolve port to service
+port-display: on        # show ports
+use-bytes: yes          # use bytes instead of bits
